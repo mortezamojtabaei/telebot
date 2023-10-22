@@ -1,9 +1,9 @@
 <?php
 include 'jdf.php';
-$token = "6906725097:AAFoUZuBhwRnc1UBFCIlR2kuMmIO2YWZdR8";
+$token = "6614517638:AAGa2SDN-fOY2Ck2pBh7LwehEYhfxIAJls8";
 $dev = "324839776";
 $payurl="../pay/";
-$baseURL = 'https://lachlach.top/kar/bot/';
+$baseURL = 'https://github.com/mortezamojtabaei/telebot/';
 define('API_KEY', $token);
 
 function bot($method,$datas=[]){
