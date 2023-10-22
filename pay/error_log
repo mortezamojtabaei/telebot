@@ -1,0 +1,9 @@
+[22-Oct-2023 00:27:27 Asia/Tehran] PHP Warning:  Undefined variable $chat_id in /home/lachlach/public_html/kar/bot/pay/verify.php on line 92
+[22-Oct-2023 00:49:19 Asia/Tehran] PHP Warning:  unlink(): Unable to find the wrapper &quot;vless&quot; - did you forget to enable it when you configured PHP? in /home/lachlach/public_html/kar/bot/pay/verify.php on line 133
+[22-Oct-2023 00:49:19 Asia/Tehran] PHP Warning:  unlink(vless://d8dced6b-4f20-4e4d-8eeb-43528b0fc018@az.runawayfromhere.sbs:2095?type=ws&amp;path=%2F&amp;security=none#30gig-ID113%F0%9F%87%A9%F0%9F%87%AA): No such file or directory in /home/lachlach/public_html/kar/bot/pay/verify.php on line 133
+[22-Oct-2023 00:53:35 Asia/Tehran] PHP Warning:  unlink(): Unable to find the wrapper &quot;vless&quot; - did you forget to enable it when you configured PHP? in /home/lachlach/public_html/kar/bot/pay/verify.php on line 133
+[22-Oct-2023 00:53:35 Asia/Tehran] PHP Warning:  unlink(vless://7b0664bc-2d83-4549-bd30-e6a51b758314@az.runawayfromhere.sbs:2095?type=ws&amp;path=%2F&amp;security=none#30gig-ID114%F0%9F%87%A9%F0%9F%87%AA): No such file or directory in /home/lachlach/public_html/kar/bot/pay/verify.php on line 133
+[22-Oct-2023 00:55:50 Asia/Tehran] PHP Warning:  unlink(67706): No such file or directory in /home/lachlach/public_html/kar/bot/pay/verify.php on line 133
+[22-Oct-2023 00:58:27 Asia/Tehran] PHP Warning:  unlink(../data/vpn/v2ray/fhfiyg): No such file or directory in /home/lachlach/public_html/kar/bot/pay/verify.php on line 90
+[22-Oct-2023 00:59:01 Asia/Tehran] PHP Warning:  unlink(../data/vpn/v2ray/fhfiyg): No such file or directory in /home/lachlach/public_html/kar/bot/pay/verify.php on line 90
+[22-Oct-2023 01:00:51 Asia/Tehran] PHP Warning:  unlink(../data/vpn/v2ray/fhfiyg): No such file or directory in /home/lachlach/public_html/kar/bot/pay/verify.php on line 90

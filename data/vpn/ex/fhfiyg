@@ -1,0 +1,1 @@
+unlink("../data/vpn/v2ray/$random");
