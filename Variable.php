@@ -1,6 +1,6 @@
 <?php
 include 'jdf.php';
-$token = "6614517638:AAGa2SDN-fOY2Ck2pBh7LwehEYhfxIAJls8";
+$token = "**";
 $dev = "324839776";
 $payurl="../pay/";
 $baseURL = 'https://github.com/mortezamojtabaei/telebot/';
